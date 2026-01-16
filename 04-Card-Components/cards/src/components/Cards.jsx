@@ -1,9 +1,5 @@
 import React from 'react'
 
-
-
-
-
 const Cards = (prop) => {
 
     console.log(prop.company);
